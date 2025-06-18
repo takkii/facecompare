@@ -1,0 +1,8 @@
+debugpy
+dlib
+face-recognition
+numpy
+opencv-python
+pydantic
+setuptools
+wheel
