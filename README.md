@@ -12,4 +12,6 @@ pip3 install facecompare-1.0.4-py3-none-any.whl
 
 Please, README [here](https://github.com/takkii/facecompare/wiki/manual).
 
-*Update: 2025/05/29*
+*Update: 2025/06/18*
+
+※ When using the PyPi package, please apply requirements.txt.
