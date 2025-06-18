@@ -4,5 +4,5 @@ face-recognition
 numpy
 opencv-python
 pydantic
-setuptools
+setuptools<81.0
 wheel
