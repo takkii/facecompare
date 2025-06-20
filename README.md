@@ -1,3 +1,5 @@
+[![PyPI Downloads](https://static.pepy.tech/badge/golden-eagle)](https://pepy.tech/projects/golden-eagle)
+
 ### Face Compare Project
 
 - This project is Face Recognition Console Application.
