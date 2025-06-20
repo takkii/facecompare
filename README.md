@@ -4,23 +4,27 @@
 
 - This project is Face Recognition Console Application.
 
+#### How to use
+
+- I use google translate.
+
 ```markdown
+# Clone the facecompare project
+git clone https://github.com/takkii/facecompare.git
+
+# Go to facecompare project
+cd facecompare
+
 # wheel build folder.
 cd dist
 
 # Install case wheel.
 pip3 install facecompare-1.0.4-py3-none-any.whl
-```
 
-#### How to use
+# Move up one folder level.
+cd ..
 
-- If you are using this package and it is not working properly, please apply requirements.txt.
-
-```markdown
-git clone https://github.com/takkii/facecompare.git
-
-cd facecompare
-
+# please apply requirements.txt.
 pip3 install -r requirements.txt
 ```
 
