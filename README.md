@@ -6,8 +6,6 @@
 
 #### How to use
 
-- I use google translate.
-
 ```markdown
 # Clone the facecompare project
 git clone https://github.com/takkii/facecompare.git
