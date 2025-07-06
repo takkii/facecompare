@@ -1,7 +1,9 @@
 debugpy
 dlib
 face-recognition
+japanize-matplotlib
 numpy
+matplotlib
 opencv-python
 pydantic
 setuptools<81.0
