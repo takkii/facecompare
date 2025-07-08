@@ -26,6 +26,8 @@ cd ..
 pip3 install -r requirements.txt
 ```
 
+> run.py
+
 ```python
 import facecompare as fc
 import face_recognition
@@ -83,6 +85,7 @@ finally:
     gc.collect()
 ```
 
+> python run.py
+
 Please, README [here](https://github.com/takkii/facecompare/wiki/manual).
 
-*Update: 2025/06/19*
