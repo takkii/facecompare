@@ -4,5 +4,7 @@
 
 - This project is Face Recognition Console Application.
 
-Please, README [facecompare](https://github.com/takkii/facecompare/wiki/facecompare) / [golden-eagle](https://github.com/takkii/facecompare/wiki/manual).
+Please, README ↓
+
+#### facecompare [英文](https://github.com/takkii/facecompare/wiki/facecompare) | [日本語](https://github.com/takkii/facecompare/wiki/facecompare_ja) / golden-eagle [英文](https://github.com/takkii/facecompare/wiki/manual) | [日本語](https://github.com/takkii/facecompare/wiki/manual_ja).
 
