@@ -1,5 +1,5 @@
 <div align="right">
-    <p>※ 英文を一部加筆し、日本語化しました。</p>
+    <p>※ 英文を加筆し、日本語化しました。</p>
 </div>
 
 ### facecompare
