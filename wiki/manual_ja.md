@@ -6,7 +6,11 @@
 
 - [x] 顔認識システムを細分化しました。
 
-#### 更新履歴: [2025/08/24]🆙
+- [x] ドキュメントを調整しました。
+
+- [x] [hyokaproject](https://github.com/takkii/hyokaproject)、python-dotenvが[使用できる](https://github.com/takkii/hyokaproject/blob/main/hyokapp/views.py#L44)ことを確認しました。
+
+#### 更新履歴: [2025/08/28]🆙
 
 - [x] コメント内、なるべく日本語化をしました。
 
