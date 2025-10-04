@@ -3,3 +3,5 @@
 ### Face Compare Project
 
 - This project is Face Recognition Console Application.
+
+- Wiki links is [here](https://github.com/takkii/facecompare/wiki).
