@@ -1,4 +1,4 @@
-### Welcome to the facecompare  / golden-eagle.
+### Welcome to the facecompare.
 
 ```markdown
 The golden eagle is the prefectural bird of Ishikawa Prefecture.
